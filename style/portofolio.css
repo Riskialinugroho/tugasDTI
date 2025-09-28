@@ -1,0 +1,40 @@
+body {
+	font-family: "Inter", sans-serif;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+.container-fluid .foto {
+	width: 200px;
+	margin-right: 15px;
+	position: relative;
+	float: left;
+	border-radius: 100%;
+}
+
+.garis {
+	border-top: 1px solid black;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	background-color: rgb(56,56,56);
+	height: 3.2rem;
+	color: white;
+}
+
+#komentar {
+	margin: 20px;
+}
+
+li {
+	list-style: none;
+	font-size: 1.2rem;
+}
